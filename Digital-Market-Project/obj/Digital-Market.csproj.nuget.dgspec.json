@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\!_ITMO\\!Project DigitalMart\\Digital-Market\\Digital-Market-Project\\Digital-Market.csproj": {}
+    "D:\\Рабочий стол\\ITMO.WORK\\Web\\WebHogs\\Digital-Market\\Digital-Market-Project\\Digital-Market.csproj": {}
   },
   "projects": {
-    "D:\\!_ITMO\\!Project DigitalMart\\Digital-Market\\Digital-Market-Project\\Digital-Market.csproj": {
+    "D:\\Рабочий стол\\ITMO.WORK\\Web\\WebHogs\\Digital-Market\\Digital-Market-Project\\Digital-Market.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\!_ITMO\\!Project DigitalMart\\Digital-Market\\Digital-Market-Project\\Digital-Market.csproj",
+        "projectUniqueName": "D:\\Рабочий стол\\ITMO.WORK\\Web\\WebHogs\\Digital-Market\\Digital-Market-Project\\Digital-Market.csproj",
         "projectName": "Digital-Market",
-        "projectPath": "D:\\!_ITMO\\!Project DigitalMart\\Digital-Market\\Digital-Market-Project\\Digital-Market.csproj",
-        "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "D:\\!_ITMO\\!Project DigitalMart\\Digital-Market\\Digital-Market-Project\\obj\\",
+        "projectPath": "D:\\Рабочий стол\\ITMO.WORK\\Web\\WebHogs\\Digital-Market\\Digital-Market-Project\\Digital-Market.csproj",
+        "packagesPath": "C:\\Users\\gosha\\.nuget\\packages\\",
+        "outputPath": "D:\\Рабочий стол\\ITMO.WORK\\Web\\WebHogs\\Digital-Market\\Digital-Market-Project\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gosha\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
